@@ -1,0 +1,21 @@
+.container {
+    margin-left: 10%;
+    margin-top: 10%;
+
+}
+
+.itemStyle{
+    display: contents;
+    
+}
+.butStyle{
+cursor: pointer;
+    margin: 3%;
+
+}
+
+.txtStyle{
+    margin-left: 7%;
+
+}
+
